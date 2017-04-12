@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: site_pages
+label: 'Site Pages'
+type: 'canonical_entities:node'
+pattern: '[node:menu-link:parents:join-path]/[node:title]'
+selection_criteria:
+  56042a37-b2b9-460a-811b-54ed8312f72b:
+    id: node_type
+    bundles:
+      page: page
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 56042a37-b2b9-460a-811b-54ed8312f72b
+selection_logic: and
+weight: 0
+relationships: {  }

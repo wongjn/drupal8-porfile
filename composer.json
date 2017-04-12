@@ -1,0 +1,11 @@
+{
+    "name": "wongjn/drupal8-profile",
+    "description": "Drupal 8 profile starting point.",
+    "type": "drupal-profile",
+    "authors": [
+        {
+            "name": "Justin Wong",
+            "role": "Developer"
+        }
+    ]
+}

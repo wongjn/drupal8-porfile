@@ -1,0 +1,5 @@
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: true
