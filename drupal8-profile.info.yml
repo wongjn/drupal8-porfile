@@ -1,0 +1,45 @@
+name: Drupal 8 profile (JW)
+type: profile
+description: 'Drupal 8 profile specific for JW.'
+core: 8.x
+
+# Required modules
+dependencies:
+  - automated_cron
+  - big_pipe
+  - block
+  - breakpoint
+  - ckeditor
+  - config
+  - contact
+  - contextual
+  - ctools
+  - datetime
+  - dblog
+  - dynamic_page_cache
+  - editor
+  - field
+  - field_ui
+  - file
+  - filter
+  - image
+  - link
+  - menu_ui
+  - node
+  - options
+  - page_cache
+  - path
+  - quickedit
+  - rdf
+  - responsive_image
+  - system
+  - text
+  - token
+  - toolbar
+  - user
+  - views_ui
+  - menu_link_content
+  - pathauto
+  - views
+themes:
+  - seven
