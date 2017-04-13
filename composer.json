@@ -15,6 +15,7 @@
         }
     ],
     "require": {
+        "drupal/devel": "^1.0@RC",
         "drupal/menu_admin_per_menu": "^1.0@RC",
         "drupal/pathauto": "^1.0@RC"
     }

@@ -23,6 +23,7 @@ dependencies:
   - file
   - filter
   - image
+  - kint
   - link
   - menu_ui
   - node
