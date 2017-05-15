@@ -18,6 +18,8 @@ dependencies:
   - ctools
   - datetime
   - dblog
+  - devel
+  - devel_generate
   - dynamic_page_cache
   - editor
   - field
