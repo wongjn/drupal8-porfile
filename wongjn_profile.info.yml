@@ -5,7 +5,6 @@ core: 8.x
 
 # Required modules
 dependencies:
-  - admin_toolbar
   - admin_toolbar_tools
   - automated_cron
   - big_pipe
@@ -43,7 +42,9 @@ dependencies:
   - toolbar
   - user
   - views_ui
+  - menu_admin_per_menu
   - menu_link_content
+  - menu_trail_by_path
   - pathauto
   - views
 themes:
