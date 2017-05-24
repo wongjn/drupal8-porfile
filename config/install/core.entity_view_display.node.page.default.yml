@@ -1,3 +1,4 @@
+uuid: 936f7303-0744-41e8-92d7-cf9e9eeda2a6
 langcode: en
 status: true
 dependencies:
@@ -7,6 +8,8 @@ dependencies:
   module:
     - text
     - user
+_core:
+  default_config_hash: oZ-7vpIJxjxL2up9B5KrJGD0lazQ9aN0P-fIPo6OrSU
 id: node.page.default
 targetEntityType: node
 bundle: page
@@ -16,9 +19,9 @@ content:
     label: hidden
     type: text_default
     weight: 100
-    region: content
     settings: {  }
     third_party_settings: {  }
+    region: content
   links:
     weight: 101
     region: content
