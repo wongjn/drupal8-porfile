@@ -7,30 +7,6 @@ name: 'Full HTML'
 format: full_html
 weight: -10
 filters:
-  filter_align:
-    id: filter_align
-    provider: filter
-    status: false
-    weight: 8
-    settings: {  }
-  filter_caption:
-    id: filter_caption
-    provider: filter
-    status: false
-    weight: 9
-    settings: {  }
-  filter_htmlcorrector:
-    id: filter_htmlcorrector
-    provider: filter
-    status: true
-    weight: 10
-    settings: {  }
-  editor_file_reference:
-    id: editor_file_reference
-    provider: editor
-    status: false
-    weight: 11
-    settings: {  }
   filter_html:
     id: filter_html
     provider: filter
