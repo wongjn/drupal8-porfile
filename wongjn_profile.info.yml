@@ -5,7 +5,7 @@ core: 8.x
 
 # Required modules
 dependencies:
-  - admin_toolbar_tools
+  - admin_toolbar
   - automated_cron
   - big_pipe
   - block
@@ -17,12 +17,9 @@ dependencies:
   - ctools
   - datetime
   - dblog
-  - devel
-  - devel_generate
   - dynamic_page_cache
   - editor
   - field
-  - field_ui
   - file
   - filter
   - image
@@ -41,7 +38,6 @@ dependencies:
   - token
   - toolbar
   - user
-  - views_ui
   - menu_admin_per_menu
   - menu_link_content
   - menu_trail_by_path
