@@ -5,6 +5,7 @@ core: 8.x
 
 # Required modules
 dependencies:
+  - admin_links_access_filter
   - admin_toolbar
   - automated_cron
   - big_pipe

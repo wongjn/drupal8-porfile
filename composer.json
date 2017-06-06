@@ -15,6 +15,7 @@
         }
     ],
     "require": {
+        "drupal/admin_links_access_filter": "1.x-dev",
         "drupal/admin_toolbar": "^1.19",
         "drupal/devel": "^1.0@RC",
         "drupal/menu_trail_by_path": "^1.1",
