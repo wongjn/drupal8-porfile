@@ -24,6 +24,7 @@ dependencies:
   - file
   - filter
   - image
+  - imce
   - link
   - menu_ui
   - node
