@@ -6,7 +6,6 @@ id: dev
 label: Dev
 folder: ../config/dev
 module:
-  admin_toolbar_tools: 0
   config_filter: 0
   config_split: 0
   devel: 0
