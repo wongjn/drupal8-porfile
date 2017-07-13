@@ -1,0 +1,24 @@
+uuid: 5b2bf683-a225-4847-b61c-8666a296df3d
+langcode: en
+status: true
+dependencies: {  }
+id: dev
+label: Dev
+folder: ../config/dev
+module:
+  admin_toolbar_tools: 0
+  config_filter: 0
+  config_split: 0
+  devel: 0
+  devel_generate: 0
+  field_ui: 0
+  kint: 0
+  views_ui: 0
+theme: {  }
+blacklist: {  }
+graylist:
+  - core.extension
+  - system.site
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
