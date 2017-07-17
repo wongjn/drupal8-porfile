@@ -7,6 +7,7 @@ core: 8.x
 dependencies:
   - admin_links_access_filter
   - admin_toolbar
+  - admin_toolbar_tools
   - automated_cron
   - big_pipe
   - block
@@ -14,7 +15,7 @@ dependencies:
   - ckeditor
   - config
   - config_filter
-  - config_ignore
+  - config_split
   - contact
   - contextual
   - ctools
@@ -23,6 +24,7 @@ dependencies:
   - dynamic_page_cache
   - editor
   - field
+  - field_ui
   - file
   - filter
   - image
