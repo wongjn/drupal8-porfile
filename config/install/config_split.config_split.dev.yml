@@ -16,7 +16,10 @@ theme: {  }
 blacklist: {  }
 graylist:
   - core.extension
+  - system.file
+  - system.mail
   - system.site
+  - views.settings
 graylist_dependents: true
 graylist_skip_equal: true
 weight: 0
