@@ -1,4 +1,3 @@
-uuid: 5b2bf683-a225-4847-b61c-8666a296df3d
 langcode: en
 status: true
 dependencies: {  }
@@ -17,7 +16,9 @@ blacklist: {  }
 graylist:
   - core.extension
   - system.file
+  - system.logging
   - system.mail
+  - system.performance
   - system.site
   - views.settings
 graylist_dependents: true
