@@ -14,8 +14,6 @@ dependencies:
   - breakpoint
   - ckeditor
   - config
-  - config_filter
-  - config_split
   - contact
   - contextual
   - ctools
