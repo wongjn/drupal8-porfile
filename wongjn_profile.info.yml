@@ -27,6 +27,7 @@ dependencies:
   - filter
   - image
   - imce
+  - lazy_image
   - link
   - menu_ui
   - node
