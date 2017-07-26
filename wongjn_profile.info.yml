@@ -34,7 +34,6 @@ dependencies:
   - options
   - page_cache
   - path
-  - quickedit
   - rdf
   - responsive_image
   - system
