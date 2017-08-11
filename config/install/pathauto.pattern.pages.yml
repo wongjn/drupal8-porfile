@@ -8,7 +8,7 @@ label: Pages
 type: 'canonical_entities:node'
 pattern: '[node:menu-link:parents:join-path]/[node:title]'
 selection_criteria:
-  0:
+  edd3602f-6692-49f9-9707-a8bced298830:
     id: node_type
     bundles:
       homepage: homepage
@@ -16,6 +16,7 @@ selection_criteria:
     negate: false
     context_mapping:
       node: node
-    selection_logic: or
+    uuid: edd3602f-6692-49f9-9707-a8bced298830
+selection_logic: and
 weight: -5
 relationships: {  }
