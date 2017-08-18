@@ -13,7 +13,6 @@ dependencies:
   - block
   - breakpoint
   - ckeditor
-  - config
   - contact
   - contextual
   - ctools
