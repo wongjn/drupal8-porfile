@@ -11,6 +11,7 @@ dependencies:
   - automated_cron
   - big_pipe
   - block
+  - block_content
   - breakpoint
   - ckeditor
   - config_split
